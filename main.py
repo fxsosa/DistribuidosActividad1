@@ -13,4 +13,6 @@ print("Codigo modificado por Leo,la hora es ", current_time)
 
 print("Modificacion hecha por Maxima Soledad Ayala")
 
-
+print("\n")
+print("----------------------------------- Actividad 1 - Hecha el 31/07/2022 ---------------------------------------")
+print("Modificacion realizado por Matias Sebastian Ramirez Brizuela")
